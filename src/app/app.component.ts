@@ -15,6 +15,6 @@ export class AppComponent {
   title = 'calliweb';
 
 // Initialize Firebase
-  const app = initializeApp(environment.firebaseConfig);
+  // const app = initializeApp(environment.firebaseConfig);
   // const analytics = getAnalytics(app);
 }
